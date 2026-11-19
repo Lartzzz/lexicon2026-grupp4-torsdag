@@ -1,6 +1,7 @@
 body {
-   font-family: Arial, sans-serif;   
-   background-color: rgb(161, 201, 214);   
+   font-family: system-ui;   
+   background-color: rgb(204, 204, 204);   
    text-align: center;
+   text-decoration: underline;
 }
-h1 { color: rgb(34, 34, 150); }
+h1 { color: rgb(0, 0, 0); }
